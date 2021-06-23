@@ -1,3 +1,0 @@
-rdkit
-seaborn
-xlrd
